@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-ClassesAndObjects/02-ClassesAndObjects.iml" filepath="$PROJECT_DIR$/02-ClassesAndObjects/02-ClassesAndObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PP3-zadania.iml" filepath="$PROJECT_DIR$/.idea/PP3-zadania.iml" />
+    </modules>
+  </component>
+</project>
